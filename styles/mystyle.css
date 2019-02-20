@@ -1,0 +1,45 @@
+
+body{
+	font-family: Agency FB;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+.fuelButton{
+	color: black;
+	width: 100px;
+	height: 50px;
+	background-color: white;
+	font-size: 29px;
+	font-family: Agency FB;
+}
+
+#paragraphFuel{
+	font-size: 40px;
+}
+
+.suppliesButton{
+color: black;
+width: 100px;
+height: 50px;
+background-color: white;
+font-size: 29px;
+font-family: Agency FB;
+}
+
+#paragraphSupplies{
+	font-size: 40px;
+}
+
+.speedButton{
+color: black;
+width: 100px;
+height: 50px;
+background-color: white;
+font-size: 29px;
+font-family: Agency FB;
+}
+
+#paragraphSpeed{
+	font-size: 40px;
+}
